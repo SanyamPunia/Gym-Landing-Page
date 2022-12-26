@@ -5,6 +5,12 @@ Deployed using [Cloudfare](https://www.cloudflare.com/)
 
 <hr />
 
+## 📷 Preview
+
+![Preview](https://raw.githubusercontent.com/SanyamPunia/Gym-Landing-Page/main/src/assets/preview.png)
+
+<hr />
+
 ## 🌐 Hosted URL
 
 - [LINK](https://6ed9fd44.gym-landing-page.pages.dev/)
@@ -27,12 +33,6 @@ Deployed using [Cloudfare](https://www.cloudflare.com/)
 
 <hr />
 
-## 📷 Preview
-
-![Preview](https://raw.githubusercontent.com/SanyamPunia/Gym-Landing-Page/main/src/assets/preview.png)
-
-<hr />
-
 ## 🔬 Local Setup & Installation
 
 - Clone the repo and install the dependencies
@@ -42,6 +42,7 @@ $ npm install
 ```
 
 - Spin up the development server
+
 ```bash
 npm run dev
 ```
